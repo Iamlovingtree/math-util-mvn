@@ -29,7 +29,7 @@ public class MathUtilityAdvancedTest {
                                {1, 1}, 
                                {2, 2}, 
                                {24, 4}, 
-                               {120, 5}
+                               {1200, 5}
                               }; //khai báo mảng
         
         return testData;
@@ -39,8 +39,7 @@ public class MathUtilityAdvancedTest {
     @MethodSource("initTestData")
     public void checkFactorioGivenRightArgumentReturnWell(long expected, int n){
                                                         //cột 0,         cột 1 
-        assertEquals(expected, getFactorio(n));
-        
+        assertEquals(expected, getFactorio(n));     
     }
 }
 

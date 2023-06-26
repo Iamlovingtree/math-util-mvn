@@ -29,7 +29,7 @@ public class MathUtilityAdvancedTest {
                                {1, 1}, 
                                {2, 2}, 
                                {24, 4}, 
-                               {1200, 5}
+                               {120, 5}
                               }; //khai báo mảng
         
         return testData;

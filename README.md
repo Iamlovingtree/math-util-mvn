@@ -2,4 +2,4 @@
 
 * Coming soon...
 
-#### Copyright &#169; 2023 quyndc
+#### Copyright &#169; 2023 Quyndc
